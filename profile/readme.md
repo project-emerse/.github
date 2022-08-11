@@ -1,6 +1,8 @@
 # EMERSE
 
-Though the EMERSE project is open-source, the projects here are private since we want to track the usage of it since it is grant-funded.  If you want accesss, send the EMERSE team a message at EMERSE-team@umich.edu.  The links below will only work if you are logged into GitHub and given permission to view the specific project, otherwise GitHub will report the pages as not able to be found.
+Though the EMERSE project is open-source, the projects here are private since we want to track the usage of it since it is grant-funded.  If you want accesss, send the EMERSE team a message at EMERSE-team@umich.edu.  The links below will only work if you are logged into GitHub and given permission to view the specific project, otherwise GitHub will report the pages as not able to be found.  Detailed installation, customization, and operation guides can be found on our [primary website](http://project-emerse.org/documentation/index.html).
+
+
 
 Here's a short list of the projects you can ask us about:
 
