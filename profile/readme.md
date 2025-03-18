@@ -13,7 +13,8 @@ Here's a short list of the projects you can ask us about:
 
 And here are some of the libraries we developed, used in some or all of the projects, which you can also get access to:
 
-* [Gradle Plugin](https://github.com/project-emerse/gradle-plugin) is a gradle plugin used in many projects and structures projects similarly.
+* [Gradle Plugin](https://github.com/project-emerse/gradle-plugin) is a gradle plugin used in older versions of projects.
+* [Build](https://github.com/project-emerse/build) is a simple Java build system we use in a number of projects, which appears as a build.jar in the root of the project.
 * [SQL](https://github.com/project-emerse/sql) is a slim layer of JDBC which abstracts SQL just enough to be database vendor agnostic.
 
 These libraries are stored on our own [maven repository](https://project-emerse.org/repo/), referenced in some of our projects.
